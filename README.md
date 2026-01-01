@@ -1,4 +1,4 @@
-# Hi, I'm Skull 👋
+# Hi, I'm Refliqx 👋
 
 I am a backend-focused software engineer and learner with a strong interest in systems, Linux, and building practical products. I focus on understanding fundamentals deeply while continuously shipping small but complete projects.
 
