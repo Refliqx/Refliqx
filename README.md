@@ -1,4 +1,4 @@
-# Hi, I'm Skull
+# Hi, I'm Skull 👋
 
 I am a backend-focused software engineer and learner with a strong interest in systems, Linux, and building practical products. I focus on understanding fundamentals deeply while continuously shipping small but complete projects.
 
@@ -27,4 +27,4 @@ Playground and experimental repositories are explicitly labeled and used to expl
 Go · JavaScript · Next.js · Linux · MySQL · Git · CLI Tools · Backend Architecture
 
 ## 📫 Contact
-- GitHub: https://github.com/<your-username>
+- GitHub: https://github.com/Refliqx
